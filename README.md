@@ -1,2 +1,2 @@
-# Tea-demo
-Basic demonstration app
+# Giant tea
+Basic demonstration giant-tea app
